@@ -1,0 +1,28 @@
+{
+  "name": "SAOBot",
+  "version": "1.0.0",
+  "description": "t",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "@rodrigogs/mysql-events": "^0.6.0",
+    "better-sqlite3": "^7.1.0",
+    "discord.js": "^12.3.1",
+    "enmap": "^5.7.1",
+    "fs": "0.0.1-security",
+    "log4js": "^6.3.0",
+    "mysql": "^2.18.1",
+    "node-fetch": "^2.6.0",
+    "querystring": "^0.2.0",
+    "randomstring": "^1.1.5",
+    "request": "^2.88.2",
+    "sync-mysql": "^3.0.1",
+    "ytdl-core": "^3.1.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "awua and syfe",
+  "license": "ISC",
+  "keywords": []
+}
