@@ -34,12 +34,12 @@
 
 ## About The Project
 
-Vulx is a profile editor made for Valorant that creates a dedicated dashboard allowing for full customization within the clients presence service. Built using Node.JS and requiring zero authentication Vulx offers the best features while prioritizing the users experience.
+Vulx is a profile editor made for Valorant that creates a dedicated dashboard allowing for full customization within the clients presence service. Built using Node.JS and requiring zero authentication Vulx offers the best features while prioritizing the users experience :smile:
 
 Here's why:
 * Blabla BlablaBlabla Blabla BlablaBlablaBlabla Blabla BlablaBlabla
 * BlablaBlablaBlabla Blabla BlablaBlabla Blabla Blabla BlablaBlablaBlabla
-* BlablaBlabla Blabla BlablaBlablaBlabla Blabla Blabla Blabla BlablaBlabla :smile:
+* BlablaBlabla Blabla BlablaBlablaBlabla Blabla Blabla Blabla BlablaBlabla
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
